@@ -4,7 +4,7 @@
 */
 
 // According to the board, cancel the corresponding macro definition
-// #define LILYGO_T5_V213
+#define LILYGO_T5_V213
 // #define LILYGO_T5_V22
 // #define LILYGO_T5_V24
 // #define LILYGO_T5_V28
